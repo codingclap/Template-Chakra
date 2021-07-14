@@ -1,0 +1,12 @@
+<svg viewBox="0 0 1091.27 25.58">
+    <defs>
+        <style>.line-diamond{fill:none;stroke:#f89621;stroke-miterlimit:10;stroke-width:2.67px;}</style>
+    </defs>
+    <g data-name="Layer 2">
+        <g id="BG">
+            <rect class="line-diamond" x="537.79" y="5.08" width="15.42" height="15.42" transform="translate(168.82 -381.98) rotate(45)"/>
+            <line class="line-diamond" x1="516.16" y1="12.79" y2="12.79"/>
+            <line class="line-diamond" x1="1091.27" y1="12.79" x2="575.11" y2="12.79"/>
+        </g>
+    </g>
+</svg>

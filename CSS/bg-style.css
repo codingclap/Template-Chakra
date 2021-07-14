@@ -1,0 +1,24 @@
+.bg-flower {
+    position: absolute;
+    width: 12vw;
+    opacity: 0.3;
+    z-index: -2;
+}
+
+.top {
+    top: 0;
+    width: 20vw;
+}
+
+.right {
+    right: 0;
+}
+
+.left {
+    left: 0;
+}
+
+.bottom {
+    max-width: 188px;
+    transform: translateY(-5vw);
+}

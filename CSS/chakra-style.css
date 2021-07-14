@@ -1,0 +1,40 @@
+.chakra-layer:hover .chakra {
+    fill: white;
+}
+
+.chakra-layer:hover {
+    cursor: pointer;
+}
+
+.on {
+    fill: white;
+}
+
+#chakra1 {
+    transform: translateY(-2%);
+}
+
+#chakra2 {
+    transform: translateY(-1%);
+}
+
+#chakra3 {
+    transform: translateY(-2%);
+}
+
+#chakra4 {
+    transform: translateY(-2%);
+}
+
+#chakra5 {
+    transform: translateY(-2.5%);
+}
+
+#chakra6 {
+    transform: translateY(-3%);
+}
+
+#chakra7 {
+    transform: translateY(-2.2%);
+}
+

@@ -1,0 +1,203 @@
+@import url("../fonts/museo-slab/style.css");
+@import url("../fonts/museoSansRounded/style.css");
+
+:root {
+    --orange: #F89621;
+    --margenta: #731745;
+    --light-pink: #BA6E98;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: var(--margenta);
+    text-align: center;
+    align-items: center;
+    width: 90%;
+    max-width: 2200px;
+    margin: 0 auto;
+    color: white;
+    max-width: 1080px;
+}
+
+.flower-front-top {
+    fill: var(--margenta);
+    stroke: var(--orange);
+    stroke-miterlimit: 10;
+    stroke-width: 3px;
+}
+
+.top-orange-flower {
+    width: 60%;
+    z-index: -1;
+}
+
+.top-flower {
+    height: calc(0.9*100vw*0.3);
+    max-height: calc(0.3*1080px);
+    overflow: hidden;
+    margin-top: 5vh;
+}
+
+.spacer {
+    width: 25rem;
+    margin: 5px auto;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.first {
+    width: 50%;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+.second {
+    width: 50%;
+    margin: auto 0;
+}
+
+
+h1,
+h2,
+h3,
+p {
+    color: white;
+}
+
+
+
+.orange-text {
+    color: var(--orange);
+}
+
+.main-heading {
+    width: 80%;
+    margin: 1.5vh auto;
+    padding: 10rem auto;
+    background-color: var(--margenta);
+    z-index: 2;
+}
+
+.main-heading h1 {
+    font-family: 'Museo Sans Rounded 300';
+    font-weight: 300;
+    font-size: 3.5rem;
+    justify-content: center;
+    z-index: 2;
+}
+
+.logo {
+    width: 20%;
+    margin: 5vh auto;
+}
+
+.diamond {
+    width: 80%;
+    margin: 1rem auto 3rem auto;
+    height: 2px;
+}
+
+
+.main-para {
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+    font-weight: 300;
+    font-size: 1.3rem;
+    line-height: 1.5em;
+}
+
+.sec3 {
+    border-bottom: 3px solid var(--light-pink);
+    width: 90%;
+    margin: -5vh auto 5vh auto;
+}
+
+.ipara>p {
+    text-align: left;
+    width: 80%;
+    margin: 1em 0em 1em 4em;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+    font-weight: 300;
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.indicator {
+    display: inline-block;
+    margin: 20px auto 10px 0px;
+    text-align: left;
+}
+
+#la {
+    margin: 0 1em 0 0;
+    width: 3rem;
+}
+
+.indicator>.heading {
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    vertical-align: top;
+    text-transform: uppercase;
+}
+
+.ipara {
+    text-align: left;
+}
+
+.flower-back-middle {
+    fill: var(--margenta);
+    stroke: #964774;
+    stroke-miterlimit: 10;
+    stroke-width: 3px;
+}
+
+.btn-primary {
+    margin: 1em 0em 1em 4em;
+    font-family: 'Museo Sans Rounded 500', sans-serif;
+    font-weight: 500;
+    font-size: 1.2rem;
+    padding: 0.5em 1em;
+    background-color: var(--orange);
+    border: 2px solid var(--orange);
+    border-radius: 8px;
+}
+
+.btn-primary:hover {
+    cursor: pointer;
+    background-color: #92205F;
+    border-color: #92205F;
+    color: white;
+}
+
+footer {
+    margin-bottom: 5vh;
+    left: 0;
+  }
+
+footer * {
+    color: var(--light-pink);
+    font-size: 0.7rem;
+    line-height: 1.8em;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+    font-weight: 300;
+}
+
+footer a {
+    text-decoration: none;
+  }
+
+.orange-text>strong {
+    font-family: 'Museo Sans Rounded 700', sans-serif;
+    font-weight: 700;
+}

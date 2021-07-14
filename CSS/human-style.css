@@ -1,0 +1,66 @@
+:root {
+    --orange: #F89621;
+    --margenta: #731745;
+    --light-pink: #BA6E98;
+}
+
+.first-block-para {
+    display: none;
+    text-align: center;
+    width: 80%;
+    margin: 1em auto 0em auto;
+    font-family: 'Museo Sans Rounded 300', sans-serif;
+    font-weight: 300;
+    font-size: 1.1rem;
+    line-height: 1.5em;
+}
+
+.enlighted-flower {
+    opacity: 0.3;
+}
+
+.petal {
+    fill: var(--margenta);
+    stroke: var(--light-pink);
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.petal {
+    fill: var(--margenta);
+    stroke: var(--light-pink);
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.petal {
+    fill: var(--margenta);
+    stroke: var(--light-pink);
+    stroke-width: 3;
+    stroke-miterlimit: 10;
+}
+
+.human-inside {
+    fill: var(--margenta);
+}
+
+.human-outside {
+    fill: var(--margenta);
+    stroke: var(--light-pink);
+    stroke-width: 6;
+    stroke-miterlimit: 10;
+}
+
+.chakra {
+    fill: var(--orange);
+}
+
+.overlay {
+    fill: transparent;
+}
+
+#enlighted-human {
+    position: inherit;
+    width: 100%;
+    margin: auto auto 0 auto;
+}

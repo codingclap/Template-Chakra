@@ -1,0 +1,134 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 493.39 493.39">
+    <style>
+        .flower-chakra {
+    fill: none;
+    stroke:#964774;
+    stroke-miterlimit:10;
+    stroke-width:3px;
+}
+    </style>
+    <g id="Layer_2" data-name="Layer 2">
+        <g id="BG">
+            <path class="flower-chakra" d="M246.86,55.28c-87.08,71.52,0,120.93,0,120.93S333.94,126.8,246.86,55.28Z"/>
+            <path class="flower-chakra" d="M111.46,111.23c-11,112.14,85.51,85.51,85.51,85.51S223.61,100.22,111.46,111.23Z"/>
+            <path class="flower-chakra" d="M55.28,246.53c71.52,87.08,120.93,0,120.93,0S126.8,159.45,55.28,246.53Z"/>
+            <path class="flower-chakra" d="M111.23,381.93c112.14,11,85.51-85.5,85.51-85.5S100.22,269.79,111.23,381.93Z"/>
+            <path class="flower-chakra" d="M246.53,438.11c87.08-71.51,0-120.92,0-120.92S159.45,366.6,246.53,438.11Z"/>
+            <path class="flower-chakra" d="M381.93,382.16c11-112.14-85.5-85.5-85.5-85.5S269.79,393.17,381.93,382.16Z"/>
+            <path class="flower-chakra" d="M438.11,246.86c-71.51-87.08-120.92,0-120.92,0S366.6,333.94,438.11,246.86Z"/>
+            <path class="flower-chakra" d="M382.16,111.46C270,100.45,296.66,197,296.66,197S393.17,223.61,382.16,111.46Z"/>
+            <path class="flower-chakra" d="M247.75,84.4c-61.11,71.51,0,120.92,0,120.92S308.86,155.91,247.75,84.4Z"/>
+            <path class="flower-chakra" d="M132.68,131.19c7.35,93.78,85.5,85.5,85.5,85.5S226.46,138.54,132.68,131.19Z"/>
+            <path class="flower-chakra" d="M84.4,245.64c71.51,61.12,120.92,0,120.92,0S155.91,184.53,84.4,245.64Z"/>
+            <path class="flower-chakra" d="M131.19,360.72c93.78-7.36,85.5-85.51,85.5-85.51S138.54,266.94,131.19,360.72Z"/>
+            <path class="flower-chakra" d="M245.64,409c61.12-71.52,0-120.93,0-120.93S184.53,337.48,245.64,409Z"/>
+            <path class="flower-chakra" d="M360.72,362.21c-7.36-93.79-85.51-85.51-85.51-85.51S266.94,354.85,360.72,362.21Z"/>
+            <path class="flower-chakra" d="M409,247.75c-71.52-61.11-120.93,0-120.93,0S337.48,308.86,409,247.75Z"/>
+            <path class="flower-chakra" d="M362.21,132.68c-93.79,7.35-85.51,85.5-85.51,85.5S354.85,226.46,362.21,132.68Z"/>
+            <path class="flower-chakra" d="M184.36,87.18c-34.16,87.65,39.82,114.18,39.82,114.18S265.61,134.58,184.36,87.18Z"/>
+            <path class="flower-chakra" d="M92.51,176.77c37.83,86.13,108.9,52.59,108.9,52.59S183.49,152.84,92.51,176.77Z"/>
+            <path class="flower-chakra" d="M90.92,305.07c87.65,34.16,114.18-39.82,114.18-39.82S138.32,223.82,90.92,305.07Z"/>
+            <path class="flower-chakra" d="M180.51,396.92C266.64,359.09,233.1,288,233.1,288S156.58,305.94,180.51,396.92Z"/>
+            <path class="flower-chakra" d="M308.81,398.51C343,310.86,269,284.33,269,284.33S227.56,351.11,308.81,398.51Z"/>
+            <path class="flower-chakra" d="M400.65,308.91c-37.82-86.12-108.89-52.58-108.89-52.58S309.68,332.85,400.65,308.91Z"/>
+            <path class="flower-chakra" d="M402.25,180.62c-87.65-34.16-114.18,39.82-114.18,39.82S354.84,261.87,402.25,180.62Z"/>
+            <path class="flower-chakra" d="M312.65,88.77c-86.12,37.83-52.58,108.9-52.58,108.9S336.59,179.75,312.65,88.77Z"/>
+            <path class="flower-chakra" d="M203.31,133.33c-23.61,72.37,37.36,90.45,37.36,90.45S271.12,167.94,203.31,133.33Z"/>
+            <path class="flower-chakra" d="M135.85,197.21c34.48,67.87,90.38,37.54,90.38,37.54S208.27,173.74,135.85,197.21Z"/>
+            <path class="flower-chakra" d="M133.33,290.08c72.37,23.62,90.45-37.36,90.45-37.36S167.94,222.28,133.33,290.08Z"/>
+            <path class="flower-chakra" d="M197.21,357.54c67.87-34.48,37.54-90.37,37.54-90.37S173.74,285.12,197.21,357.54Z"/>
+            <path class="flower-chakra" d="M290.08,360.07c23.62-72.37-37.36-90.45-37.36-90.45S222.28,325.46,290.08,360.07Z"/>
+            <path class="flower-chakra" d="M357.54,296.18c-34.48-67.87-90.37-37.53-90.37-37.53S285.12,319.66,357.54,296.18Z"/>
+            <path class="flower-chakra" d="M360.07,203.31c-72.37-23.61-90.45,37.36-90.45,37.36S325.46,271.12,360.07,203.31Z"/>
+            <path class="flower-chakra" d="M296.18,135.85c-67.87,34.48-37.53,90.38-37.53,90.38S319.66,208.27,296.18,135.85Z"/>
+            <path class="flower-chakra" d="M174.08,172.34C179.44,253,246.7,246.7,246.7,246.7S254.6,179.61,174.08,172.34Z"/>
+            <path class="flower-chakra" d="M172.34,319.32C253,314,246.7,246.7,246.7,246.7S179.61,238.79,172.34,319.32Z"/>
+            <path class="flower-chakra" d="M319.32,321.06C314,240.38,246.7,246.7,246.7,246.7S238.79,313.78,319.32,321.06Z"/>
+            <path class="flower-chakra" d="M321.06,174.08c-80.68,5.36-74.36,72.62-74.36,72.62S313.78,254.6,321.06,174.08Z"/>
+            <circle class="flower-chakra" cx="326.86" cy="61.55" r="7.78"/>
+            <circle class="flower-chakra" cx="172.46" cy="59.09" r="7.78"/>
+            <circle class="flower-chakra" cx="61.55" cy="166.53" r="7.78"/>
+            <circle class="flower-chakra" cx="59.09" cy="320.93" r="7.78"/>
+            <circle class="flower-chakra" cx="166.53" cy="431.85" r="7.78"/>
+            <circle class="flower-chakra" cx="320.93" cy="434.3" r="7.78"/>
+            <circle class="flower-chakra" cx="431.85" cy="326.86" r="7.78"/>
+            <circle class="flower-chakra" cx="434.3" cy="172.46" r="7.78"/>
+            <circle class="flower-chakra" cx="294.04" cy="25.41" r="2.56"/>
+            <circle class="flower-chakra" cx="205.75" cy="24.14" r="2.56"/>
+            <circle class="flower-chakra" cx="123.7" cy="56.75" r="2.56"/>
+            <circle class="flower-chakra" cx="60.37" cy="118.28" r="2.56"/>
+            <circle class="flower-chakra" cx="25.41" cy="199.35" r="2.56"/>
+            <circle class="flower-chakra" cx="24.14" cy="287.64" r="2.56"/>
+            <circle class="flower-chakra" cx="56.75" cy="369.7" r="2.56"/>
+            <circle class="flower-chakra" cx="118.28" cy="433.02" r="2.56"/>
+            <circle class="flower-chakra" cx="199.35" cy="467.98" r="2.56"/>
+            <circle class="flower-chakra" cx="287.64" cy="469.26" r="2.56"/>
+            <circle class="flower-chakra" cx="369.7" cy="436.65" r="2.56"/>
+            <circle class="flower-chakra" cx="433.02" cy="375.12" r="2.56"/>
+            <circle class="flower-chakra" cx="467.98" cy="294.04" r="2.56"/>
+            <circle class="flower-chakra" cx="469.26" cy="205.75" r="2.56"/>
+            <circle class="flower-chakra" cx="436.65" cy="123.7" r="2.56"/>
+            <circle class="flower-chakra" cx="375.12" cy="60.37" r="2.56"/>
+            <circle class="flower-chakra" cx="245.7" cy="29.09" r="5.12"/>
+            <circle class="flower-chakra" cx="92.12" cy="93.53" r="5.12"/>
+            <circle class="flower-chakra" cx="29.09" cy="247.69" r="5.12"/>
+            <circle class="flower-chakra" cx="93.53" cy="401.27" r="5.12"/>
+            <circle class="flower-chakra" cx="247.69" cy="464.3" r="5.12"/>
+            <circle class="flower-chakra" cx="401.27" cy="399.87" r="5.12"/>
+            <circle class="flower-chakra" cx="464.3" cy="245.7" r="5.12"/>
+            <circle class="flower-chakra" cx="399.87" cy="92.12" r="5.12"/>
+            <circle class="flower-chakra" cx="294.04" cy="25.41" r="2.56"/>
+            <circle class="flower-chakra" cx="205.75" cy="24.14" r="2.56"/>
+            <circle class="flower-chakra" cx="123.7" cy="56.75" r="2.56"/>
+            <circle class="flower-chakra" cx="60.37" cy="118.28" r="2.56"/>
+            <circle class="flower-chakra" cx="25.41" cy="199.35" r="2.56"/>
+            <circle class="flower-chakra" cx="24.14" cy="287.64" r="2.56"/>
+            <circle class="flower-chakra" cx="56.75" cy="369.7" r="2.56"/>
+            <circle class="flower-chakra" cx="118.28" cy="433.02" r="2.56"/>
+            <circle class="flower-chakra" cx="199.35" cy="467.98" r="2.56"/>
+            <circle class="flower-chakra" cx="287.64" cy="469.26" r="2.56"/>
+            <circle class="flower-chakra" cx="369.7" cy="436.65" r="2.56"/>
+            <circle class="flower-chakra" cx="433.02" cy="375.12" r="2.56"/>
+            <circle class="flower-chakra" cx="467.98" cy="294.04" r="2.56"/>
+            <circle class="flower-chakra" cx="469.26" cy="205.75" r="2.56"/>
+            <circle class="flower-chakra" cx="436.65" cy="123.7" r="2.56"/>
+            <circle class="flower-chakra" cx="375.12" cy="60.37" r="2.56"/>
+            <circle class="flower-chakra" cx="158.32" cy="20.68" r="2.56"/>
+            <circle class="flower-chakra" cx="78.55" cy="71.71" r="2.56"/>
+            <circle class="flower-chakra" cx="24.39" cy="149.38" r="2.56"/>
+            <circle class="flower-chakra" cx="4.07" cy="241.86" r="2.56"/>
+            <circle class="flower-chakra" cx="20.68" cy="335.08" r="2.56"/>
+            <circle class="flower-chakra" cx="71.71" cy="414.84" r="2.56"/>
+            <circle class="flower-chakra" cx="149.38" cy="469.01" r="2.56"/>
+            <circle class="flower-chakra" cx="241.86" cy="489.33" r="2.56"/>
+            <circle class="flower-chakra" cx="335.08" cy="472.71" r="2.56"/>
+            <circle class="flower-chakra" cx="414.84" cy="421.68" r="2.56"/>
+            <circle class="flower-chakra" cx="469.01" cy="344.02" r="2.56"/>
+            <circle class="flower-chakra" cx="489.33" cy="251.54" r="2.56"/>
+            <circle class="flower-chakra" cx="472.71" cy="158.32" r="2.56"/>
+            <circle class="flower-chakra" cx="421.68" cy="78.55" r="2.56"/>
+            <circle class="flower-chakra" cx="344.02" cy="24.39" r="2.56"/>
+            <circle class="flower-chakra" cx="251.54" cy="4.07" r="2.56"/>
+            <path class="flower-chakra" d="M246.7,148.84c-49.46,57.87,0,97.86,0,97.86S296.15,206.71,246.7,148.84Z"/>
+            <path class="flower-chakra" d="M148.84,246.7c57.87,49.45,97.86,0,97.86,0S206.71,197.24,148.84,246.7Z"/>
+            <path class="flower-chakra" d="M246.7,344.56c49.45-57.88,0-97.86,0-97.86S197.24,286.68,246.7,344.56Z"/>
+            <path class="flower-chakra" d="M344.56,246.7c-57.88-49.46-97.86,0-97.86,0S286.68,296.15,344.56,246.7Z"/>
+            <circle class="flower-chakra" cx="292.94" cy="70.62" r="7.02"/>
+            <circle class="flower-chakra" cx="154.89" cy="89.49" r="7.02"/>
+            <circle class="flower-chakra" cx="70.62" cy="200.45" r="7.02"/>
+            <circle class="flower-chakra" cx="89.49" cy="338.5" r="7.02"/>
+            <circle class="flower-chakra" cx="200.45" cy="422.77" r="7.02"/>
+            <circle class="flower-chakra" cx="338.5" cy="403.9" r="7.02"/>
+            <circle class="flower-chakra" cx="422.77" cy="292.94" r="7.02"/>
+            <circle class="flower-chakra" cx="403.9" cy="154.89" r="7.02"/>
+            <circle class="flower-chakra" cx="341.01" cy="90.98" r="7.02"/>
+            <circle class="flower-chakra" cx="203.28" cy="69.9" r="7.02"/>
+            <circle class="flower-chakra" cx="90.98" cy="152.39" r="7.02"/>
+            <circle class="flower-chakra" cx="69.9" cy="290.12" r="7.02"/>
+            <circle class="flower-chakra" cx="152.39" cy="402.41" r="7.02"/>
+            <circle class="flower-chakra" cx="290.12" cy="423.49" r="7.02"/>
+            <circle class="flower-chakra" cx="402.41" cy="341.01" r="7.02"/>
+            <circle class="flower-chakra" cx="423.49" cy="203.28" r="7.02"/>
+        </g>
+    </g>
+</svg>
